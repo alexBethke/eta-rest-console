@@ -5,5 +5,5 @@ What you need
 * An ETA touch machine with enabled REST Services (https://www.eta.co.at/products/eta-touch-meineta/was-ist-meineta/)
 * A linux or macOS based computer that resides in the same network as your ETA touch and that is switched on
 
-© 2016 Alexander Bethke - All rights reserved
-www.bdcom.de - info@bdcom.de
+Contributor
+Alexander Bethke - a.bethke@bdcom.de
